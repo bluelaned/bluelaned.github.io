@@ -1,9 +1,10 @@
 ##  I'm blueland, frontend developer
 
 
-[![Instagram: blueland.php]](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-// [![Linkedin: amadoabaca](https://img.shields.io/badge/-amado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/amado-abaca-59845a1b4/)](https://www.linkedin.com/in/amado-abaca-59845a1b4/)
-![](https://visitor-badge.glitch.me/badge?page_id=amadoabaca.amadoabaca)
+![Instagram: blueland.php](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white
+) : <a href=instagram.com/blueland.php>blueland.php</a>
+
+
 
 ### aboutMe.js
 
